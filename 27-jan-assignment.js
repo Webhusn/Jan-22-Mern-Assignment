@@ -1,5 +1,3 @@
-s
-   
 let arr = [];
 let max = 0;
 let inputNum = Number(prompt("Enter how many numbers you want to give me."));
