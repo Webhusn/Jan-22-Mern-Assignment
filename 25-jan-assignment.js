@@ -1,3 +1,4 @@
+var number=50;
 if (number > 10) {
    alert("The number is greater than 10");
 } else if (number === 10) {
