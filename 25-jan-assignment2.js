@@ -11,4 +11,4 @@ else {
 if (c > grater) {
     g = c;
 }
-console.log(grater);
+alert(grater);
